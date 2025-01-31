@@ -1,6 +1,6 @@
 sravan kumar
 
-i=30
+i=40
 
 
 x =30
