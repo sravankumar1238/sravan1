@@ -1,9 +1,9 @@
 sravan kumar
 
-i=30
+i=90
 
 
 x =30
 
 
-y =30
+y =130
